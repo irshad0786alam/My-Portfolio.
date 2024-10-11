@@ -354,6 +354,9 @@ section .title::after{
     top: 0;
     background:crimson;
 }
+.skills .skills-content .right .react::before{
+    width: 60%;
+}
 .skills .skills-content .right .html::before{
     width: 90%;
 }
