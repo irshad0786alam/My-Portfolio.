@@ -26,13 +26,13 @@ N$(document).ready(function(){
 
 // typing animation script
 var typed = new Typed(".typing",{
-    strings:["MERN Stack Developer","Java Developer"],
+    strings:["MERN Stack Developer","Java Developer", " "],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
 });
 var typed = new Typed(".typing-2",{
-    strings:["MERN Stack Developer","Java Developer"],
+    strings:["MERN Stack Developer","Java Developer", " "],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
